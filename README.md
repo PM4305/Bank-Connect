@@ -18,7 +18,7 @@
 - **MySQL Integration:**
     - Stored and managed financial data securely in a MySQL database for persistence and accessibility.
 
-**## Technologies Used**
+**Technologies Used**
 
 - C++
 - MySQL
